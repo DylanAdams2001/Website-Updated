@@ -1,0 +1,55 @@
+
+*{
+    background-color: #f1f6fb;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.step-5-div {
+    width: 100%;
+ }
+
+
+ .step-5-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+ }
+
+ .onboarding-button-div {
+   
+    text-align: center;
+
+ }
+
+ .onboarding-button {
+    background-color: #dd004e;
+    color: white;
+    border-radius: 12px;
+    width: 525px;
+    height: 62px;
+    border-color: #dd004e;
+    font-weight: 800;
+    box-shadow: none;
+    
+    
+ }
+
+ .onboarding-a {
+    background-color: #dd004e;
+    color: white;
+    text-decoration: none;
+
+ }
+
+ .video {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+    
+ }

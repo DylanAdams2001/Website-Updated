@@ -1,0 +1,1205 @@
+*{
+    background-color: #f1f6fb;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo {
+    margin-left: 20px;
+}
+.div1 {
+    padding-left: 20px;
+}
+.heading1 {
+    font-size: 30px;
+    font-weight:550;
+    margin: 0%;
+}
+
+.pic1 {
+    padding-right: 120px;
+    margin-right: -150;
+    width: 450px;
+}
+
+.button1{
+    margin-left: 70px;
+    font-size: 15px;
+    display: block;
+    background-color: #dd004e;
+    color: white;
+    border-radius: 12px;
+    width: 250px;
+    height: 65px;
+    border-color: #dd004e;
+    font-weight: 800;
+    box-shadow: none;
+    margin-top: 20px;
+}
+
+.p1 {
+    padding-top: 20px;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.p2 {
+    margin-left: 10px;
+    font-size: 50px;
+    font-weight:550;
+
+}
+
+.p3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button2 {
+    margin-left: 70px;
+    font-size: 15px;
+    display: block;
+    background-color: #dd004e;
+    color: white;
+    border-radius: 12px;
+    width: 250px;
+    height: 65px;
+    border-color: #dd004e;
+    font-weight: 800;
+    box-shadow: none;
+    margin-top: 50px;
+    
+}
+
+.div3 {
+    padding-bottom: 50px;
+}
+
+.btn-div {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.div4 {
+    padding-left: 15px;
+    padding-bottom: 100px;
+    padding-top: 80px;
+}
+
+.div5 {
+    background-color: rgb(17, 16, 16);
+    width: 100%;
+    
+}
+
+.img1 {
+    background-color: rgb(17, 16, 16);
+    margin-left: 90px;
+}
+
+.img2 {
+    display: none;
+}
+
+.img3 {
+    display: none;
+}
+
+.div6-h5 {
+    margin-top: 0px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding-top: 30px;
+}
+
+.div6-h2 {
+    color: #dd004e;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+
+}
+
+#bar-chart {
+    margin-left: 150px;
+    padding-top: 20px;
+}
+
+#money {
+    margin-left: 150px;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#users {
+    margin-left: 150px;
+    padding-top: 20px;
+
+}
+
+.div7-h5 {
+    font-weight: bold;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.div8-h5 {
+    font-weight: bold;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.div9-h5 {
+    font-weight: bold;
+    margin-left: 100px;
+    padding: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
+}
+.div-box {
+    background-color: rgb(17, 16, 16);
+    width: 100%;
+}
+
+.div10 {
+    background-color: rgb(17, 16, 16);
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.div11 {
+    background-color: rgb(17, 16, 16);
+    margin-left: 25px;
+    margin-right: 25px;
+ 
+    
+}
+
+
+
+.dp {
+    border-radius: 50%;
+    background-color: white;
+    padding: 3px;
+    margin-left: 50px;
+
+}
+
+.meet-founder {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    font-weight: bold ;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.founder-p {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    padding-bottom: 40px;
+    margin-bottom: 0px;
+}
+
+.name-tag {
+    background-color: rgb(17, 16, 16);
+    color: #dd004e;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 100px;
+    padding-top: 20px;
+
+}
+
+.f-tag {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    font-size: 20px;
+    margin-left: 130px;
+}
+
+.div12 {
+    padding-top: 100px;
+}
+
+.dp-1 {
+    
+    border-radius: 50%;
+    background-color: rgb(17, 16, 16);
+    padding: 3px;
+    margin-left: 100px;
+}
+
+.schedule-call {
+    padding-top: 50px;
+    font-weight: 700px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+}
+
+.demo-call {
+    margin-top: 0px;
+    color:#dd004e;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+.div12-p {
+    margin-left: 25px;
+    padding-bottom: 25px;
+    margin-right: 10px;
+}
+
+.div13 {
+    padding-top: 25px;
+    padding-bottom: 125px;
+}
+
+.div13-p1 {
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+.div13-p2 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: rgb(17, 16, 16);
+    width: 100%;
+}
+
+.footer .img {
+    background-color: rgb(17, 16, 16);
+    margin-left: 100px;
+}
+
+.list-inline {
+    background-color: rgb(17, 16, 16);
+}
+
+.privacy-policy {
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+.terms-of-service {
+    background-color: rgb(17, 16, 16);
+    color: white;
+    
+}
+
+.earnings-disclaimer {
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+.footer {
+    padding: 40px 40px;
+}
+
+.footer ul {
+    
+    font-size: 10px;
+    list-style:none;
+    text-align:center;
+    line-height:1.6;
+
+  }
+
+  .footer a:hover {
+    color: #dd004e;
+  }
+
+.footer li {
+    padding: 5px 5px;
+    display: inline;
+    background-color: rgb(17, 16, 16);
+    
+}
+
+.disclaimer {
+   text-align: center;
+    margin-top: 0px;
+    background-color: rgb(17, 16, 16);
+    color: white;
+    display: inline;
+    font-size: 10px;
+}
+
+.div13-clone {
+    display: none;
+}
+
+
+    
+
+
+
+@media (min-width: 576px) { 
+
+    .logo {
+        margin-left: 50px;
+    }
+    .div1 {
+        margin-left: 10px;
+    }
+    .heading1 {
+        font-size: 30px;
+        font-weight:550;
+    }
+
+    .pic1 {
+        width: 550px;
+    }
+    
+    .button1{
+        margin-left: 220px;
+        font-size: 15px;
+        display: block;
+        background-color: #dd004e;
+        color: white;
+        border-radius: 12px;
+        width: 250px;
+        height: 65px;
+        border-color: #dd004e;
+        font-weight: 800;
+        box-shadow: none;
+        margin-top: 20px;
+    }
+
+    .p1 {
+        margin-top: 20px;
+        font-size: 30px;
+        margin-left: 10px;
+    }
+    .p2 {
+        margin-left: 10px;
+        font-size: 50px;
+        font-weight:550;
+
+    }
+
+    .p3 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .button2 {
+        margin-left: 220px;
+        font-size: 15px;
+        display: block;
+        background-color: #dd004e;
+        color: white;
+        border-radius: 12px;
+        width: 250px;
+        height: 65px;
+        border-color: #dd004e;
+        font-weight: 800;
+        box-shadow: none;
+        margin-top: 20px;
+    }
+
+    .div3 .p1 {
+        margin-top: 0px;
+    }
+
+    .div4 {
+        padding-left: 150px;
+    }
+
+    .img1 {
+        margin-left: 250px;
+    }
+
+    .div6-h5 {
+        margin-left: 0px;
+    }
+
+    .div6-h2 {
+        margin-left: 0px;
+    }
+
+    #bar-chart {
+        margin-left: 270px;
+        
+    }
+    
+    #money {
+        margin-left: 270px;
+       
+       
+    }
+    
+    #users {
+        margin-left: 270px;
+ 
+    
+    }
+
+    .div7-h5 {
+        margin-left: 220px;
+    }
+
+    .div8-h5 {
+        margin-left: 220px;
+    }
+
+    .div9-h5 {
+        margin-left: 220px;
+    }
+
+    .dp {
+        margin-left: 200px;
+    }
+
+    .name-tag {
+        margin-left: 250px;
+    }
+
+    .f-tag {
+        margin-left: 290px;
+    }
+
+    .dp-1 {
+        margin-left: 250px;
+    }
+
+    .footer .img {
+        margin-left: 250px;
+    }
+
+
+}
+
+
+
+@media (min-width: 768px) {
+
+    .pic1 {
+        margin-left: 50px;
+    }
+
+    .button1 {
+        margin-left: 270px;
+    }
+
+    .button2 {
+        margin-left: 270px;
+    }
+
+    .div4 {
+        padding-left: 200px;
+    }
+
+    .img1 {
+        margin-left: 270px;
+    }
+
+    .div6-h5 {
+        margin-left: 0px;
+    }
+
+    .div6-h2 {
+        margin-left: 0px;
+    }
+
+    #bar-chart {
+        margin-left: 320px;
+        
+    }
+    
+    #money {
+        margin-left: 320px;
+       
+       
+    }
+
+    
+    
+    #users {
+        margin-left: 320px;
+    }
+
+    .div7-h5 {
+        margin-left: 270px;
+    }
+
+    .div8-h5 {
+        
+        margin-left: 265px;
+       
+    }
+
+    .div9-h5 {
+        margin-left: 270px;
+    }
+
+    .dp {
+        margin-left: 250px;
+    }
+
+    .name-tag {
+        margin-left: 300px;
+    }
+
+    .f-tag {
+        margin-left: 340px;
+    }
+
+    .schedule-call {
+        font-weight: bold;
+        padding-top: 20px;
+        font-size: 20px;
+    }
+
+    .demo-call {
+        font-size: 30px;
+    }
+
+    .div13-p1 {
+        font-size: 20px;
+    }
+
+    .dp-1 {
+        margin-left: 290px;
+    }
+
+    .footer .img {
+        margin-left: 280px;
+    }
+
+}
+
+    
+
+
+
+@media (min-width: 992px) { 
+    .div1 {
+        padding-top: 75px;
+        width: 40%;
+        float: left;
+        padding-left: 5%;
+        display: block;
+    }
+
+    .heading1 {
+        font-size: 35px;
+    }
+
+    .div2 {
+        margin-right: 17%;
+        width: 40%;
+        float: right;
+        display: block;
+        margin-left: 0px;
+    }
+
+    .pic1 {
+        margin-left: -30px;
+    }
+
+    .btn-div {
+
+        margin-left: -210px;
+        padding-top: 230px;
+
+    }
+
+
+    
+    .div3 {
+        padding-top: 75px;
+        width: 45%;
+        float: left;
+        padding-left: 5%;
+        display: block;
+    }
+
+    .div4 {
+        padding-top: 200px;
+        margin-right: 15%;
+        width: 40%;
+        float: right;
+        display: block;
+        margin-left: 0px;
+        padding-left: 10%;
+    }
+
+    .button2 {
+        margin-left: 10px;
+    }
+
+    .div5 {
+        margin-top: 100px;
+        float: left;
+        width: 100%;
+        padding: 10px;
+
+
+    }
+
+    .img1 {
+        background-color: rgb(17, 16, 16);
+        margin-left: 60px;
+        display: inline;
+    }
+    
+    .img2 {
+        background-color: rgb(17, 16, 16);
+        margin-left: 60px;
+        display: inline;
+        
+    }
+    
+    .img3 {
+        background-color: rgb(17, 16, 16);
+        margin-left: 60px;
+        display: inline;
+    }
+
+  
+
+   
+.div6 {
+    padding-top: 1000px;
+    margin-left: 0px;
+    padding-bottom: 50px;
+    
+   
+}   
+
+#h56 {
+    margin-left: 0px;
+
+}
+
+.div6-h2 {
+    font-size: 80px;
+    margin-left: 0px;
+}
+
+.stats-div {
+    padding-bottom: 300px;
+}
+
+
+
+.div7 {
+    padding-left: 0px;
+    float: left;
+    display: block;
+    width: 25%;
+    height: 200px;
+}
+
+.div8 {
+    display: block;
+    float: left;
+    width: 50%;
+    margin: 0%;
+    height: 200px;
+}
+
+.div9 {
+    padding-top: 20px;
+    float: right;
+    width: 25%;
+    display: block;
+    height: 200px;
+
+}
+
+#bar-chart {
+    margin-left: 100px;
+    padding: 0;
+    margin-top: 30px;
+    
+}
+
+#money {
+    margin-left: 180px;
+    margin-top: 0px;
+}
+
+#users {
+    margin-left: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+
+.div7-h5 {
+    
+    margin-left: 120px;
+    
+}
+
+.div8-h5 {
+    
+    margin-left: 130px;
+    
+}
+
+.div9-h5 {
+    font-weight: bold;
+    margin-left: -40px;
+    padding: 20px;
+    margin-bottom: 0px;
+
+}
+
+    
+
+   
+
+
+
+    
+.div-box {
+    background-color: rgb(17, 16, 16);
+    padding-bottom: 600px;
+        
+        
+}
+
+  
+.div10 {
+    padding-top: 90px;
+    width: 50%;
+    float: left;
+    display: block;
+    background-color: rgb(17, 16, 16);
+      
+}
+
+.dp {
+    margin-left: 150px;
+}
+
+.name-tag {
+    margin-left: 200px;
+}
+
+.f-tag {
+    margin-left: 230px;
+}
+
+   
+
+.div11 {
+    padding-top: 50px;
+    margin-right: 0px;
+    width: 50%;
+    float: right;
+    display: block;
+    margin-left: 0px;
+    background-color: rgb(17, 16, 16);
+        
+        
+}
+
+
+
+.meet-founder {
+    margin: 10%;
+    font-size: 50px;
+    margin-left: 50px;
+       
+}
+
+.founder-p {
+    line-height: 0.8cm;
+    margin: 40px;
+    padding-bottom: 10px;
+}
+
+
+
+.div12 {
+    display: none;
+}
+
+.dp-1 {
+    margin-left: 20px;
+
+        
+        
+}
+
+.div13-p2 {
+    margin-left: 0px;
+}
+
+.schedule-call-div {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    line-height: normal;
+}
+
+.schedule-call {
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.demo-call {
+    font-size: 30px;
+}
+
+.div13-p1 {
+    font-size: 20px;
+}
+
+.calendly-inline-widget {
+    float: left;
+    width: 40%;
+    display: block;
+    margin-left: 5%;
+}
+
+.div13-clone {
+    float: right;
+    width: 50%;
+    display: block;
+}
+
+.div13-clone {
+    display: block;
+}
+
+.footer .img {
+    margin-left: 430px;
+}
+
+.footer {
+    float: left;
+    margin-top: 150px;
+}
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 1200px) { 
+
+    .div6 {
+        padding-top: 875px;
+        padding-left: 0px;
+        margin-left: 0;
+        text-align: center;
+
+    }
+
+    .img1 {
+        margin-left: 112.5px;
+    }
+    
+    .img2 {
+        margin-left: 112.5px;
+        
+    }
+    
+    .img3 {
+        margin-left: 112.5px;
+    }
+
+    .div7 {
+        padding-left: 0px;
+        float: left;
+        display: block;
+        width: 33%;
+        height: 200px;
+        text-align: center;
+    }
+    
+    .div8 {
+        display: block;
+        float: left;
+        width: 33%;
+        margin: 0%;
+        height: 200px;
+        text-align: center;
+    }
+    
+    .div9 {
+        padding-top: 20px;
+        float: right;
+        width: 33%;
+        display: block;
+        height: 200px;
+        text-align: center;
+    
+    }
+
+    #bar-chart {
+        margin-left: 120px;
+        padding: 0;
+        margin-top: 30px;
+        
+    }
+    
+    #money {
+        margin-left: 90px;
+        margin-top: 0px;
+    }
+    
+    #users {
+        margin-left: -30px;
+        padding-top: 0px;
+        margin-top: 0px;
+    
+    }
+
+    .div7-h5 {
+        margin-top: -10px;
+    }
+
+    .div8-h5 {
+    
+        margin-left: 80px;
+        
+        
+    }
+
+    .footer .img {
+        margin-left: 500px;
+    }
+
+ }
+
+
+@media (min-width: 1400px) { 
+    
+    .button1 {
+        margin-left: 300px;
+    }
+
+    .dp {
+        margin-left: 300px;
+    }
+
+    .name-tag {
+        margin-left: 360px;
+    }
+
+    .img1 {
+        margin-left: 200px;
+    }
+    
+    .img2 {
+        margin-left: 200px;
+        
+    }
+    
+    .img3 {
+        margin-left: 200px;
+    }
+
+    .f-tag {
+        margin-left: 390px;
+    }
+
+    .founder-p {
+        padding: 35px;
+    }
+
+    .div6 {
+        margin-left: 0px;
+    }
+
+    .meet-founder {
+        margin-bottom: 0px;
+    }
+
+    #bar-chart {
+        margin-left: 120px;
+        padding: 0;
+        margin-top: 30px;
+        
+    }
+    
+    #money {
+        margin-left: -20px;
+        margin-top: 0px;
+    }
+    
+    #users {
+        margin-left: -100px;
+        
+    
+    }
+
+    .div8-h5 {
+    
+        margin-left: -20px;
+        
+        
+    }
+
+    .div13-clone {
+        padding-top: 20px;
+    }
+
+
+    .footer .img {
+        margin-left: 720px;
+    }
+
+ }
+
+
+ /* Onboarding Modules */
+
+ .step-1-div {
+    width: 100%;
+ }
+
+
+ .step-1-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+ }
+
+ .onboarding-button-div {
+   
+    text-align: center;
+
+ }
+
+ .onboarding-button {
+    background-color: #dd004e;
+    color: white;
+    border-radius: 12px;
+    width: 525px;
+    height: 62px;
+    border-color: #dd004e;
+    font-weight: 800;
+    box-shadow: none;
+    
+    
+ }
+
+ .onboarding-a {
+    background-color: #dd004e;
+    color: white;
+    text-decoration: none;
+
+ }
+
+ .step-2-div {
+    width: 100%;
+ }
+
+
+ .step-2-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+
+ }
+
+ .step-3-div {
+    width: 100%;
+ }
+
+
+ .step-3-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+
+ }
+
+ .step-4-div {
+    width: 100%;
+ }
+
+
+ .step-4-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+
+ }
+
+ .step-5-div {
+    width: 100%;
+ }
+
+
+ .step-5-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+ }
+
+ .step-6-div {
+    width: 100%;
+ }
+
+
+ .step-6-heading {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+ }
+
+ .video {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+    
+ }
+
+ .video-p {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.typeform-button {
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    width: 150px;
+    height: 40px;
+    border-color: blue;
+    font-weight: 800;
+    box-shadow: none;
+;
+}
+
+.typeform {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.calendly-inline-widget-1 {
+    float: left;
+    width: 40%;
+    display: block;
+    margin-left: 5%;
+}
+
+ 
