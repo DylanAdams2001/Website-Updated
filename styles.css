@@ -496,7 +496,19 @@
 @media (min-width: 768px) {
 
     .pic1 {
-        margin-left: 50px;
+        float: right;
+        margin-right: 0px;
+        width: 500px;
+    }
+
+    .div2 {
+        margin: 0;
+        text-align: center;
+        
+    }
+
+    .pic2 {
+        width: 500px;
     }
 
     .button1 {
@@ -507,9 +519,7 @@
         margin-left: 270px;
     }
 
-    .div4 {
-        padding-left: 200px;
-    }
+   
 
     .img1 {
         margin-left: 270px;
