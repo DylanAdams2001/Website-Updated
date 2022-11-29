@@ -1,11 +1,14 @@
 *{
     background-color: #f1f6fb;
     font-family: 'Montserrat', sans-serif;
+
     
 }
 
 .logo {
-    margin-left: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0px;
 }
 .div1 {
     padding-left: 20px;
@@ -17,13 +20,13 @@
 }
 
 .div2 {
-    padding-left: 200px;
+    padding-left: 320px;
     padding-bottom: 100px;
     padding-top: 80px;
 }
 
 .pic1 {
-    padding-right: 120px;
+    padding-right: 0px;
     margin-right: -150;
     width: 450px;
 }
@@ -352,7 +355,7 @@
 @media (min-width: 576px) { 
 
     .logo {
-        margin-left: 50px;
+        margin-left: 0px;
     }
     .div1 {
         margin-left: 10px;
